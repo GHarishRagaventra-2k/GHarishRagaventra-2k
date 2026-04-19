@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GHarishRagaventra-2k
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Fullstack
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in testing
+- 🌱 I’m currently learning java selenium
 - 📫 How to reach me via LinkedIn or Gmail
 - 😄 Pronouns: He
 - ⚡ Fun fact: Code is not just a word it is road...
